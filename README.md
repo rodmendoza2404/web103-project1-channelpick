@@ -36,6 +36,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/LqjW8zL.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://i.imgur.com/LqjW8zL.mp4
+https://i.imgur.com/LqjW8zL.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
 <!-- Recommended tools:
