@@ -33,8 +33,10 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
+https://i.imgur.com/Y8kXK2r.gif
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/LqjW8zL.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/Y8kXK2r.gif)]([https://i.imgur.com/Y8kXK2r.gif])
+  ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://i.imgur.com/LqjW8zL.mp4
 https://i.imgur.com/LqjW8zL.gif
 <!-- Replace this with whatever GIF tool you used! -->
